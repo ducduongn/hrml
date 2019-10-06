@@ -1,0 +1,62 @@
+.banner{
+    display: flex;
+    width:1240px;
+    height:552px;
+    background-color : rgb(240, 240, 240);
+    margin: auto;
+}
+
+.banner  ._1c{
+    width:245px;
+}
+.banner  ._1c  .line {
+    margin-left: 10px;
+    display: flex;
+    height: 35px;
+    font-size: 13px;
+    font-weight: 400;
+}
+.banner  ._1c  .line  .left {
+    width: 30px;
+}
+.banner  ._1c  .line  .right {
+    width: calc(100% - 35px);
+}
+
+.banner ._2c{
+    width:590px;
+}
+
+.banner  ._2c  .tren {
+    height:368px;
+}
+.banner ._2c  .tren .myslide {
+    width: 590px;
+    height: 368px;
+}
+
+.banner  ._2c  .duoi{
+    height:214px;
+    display: flex;
+}
+
+.banner  ._2c  .duoi  .half2{
+    width:50%;
+
+}
+
+.banner ._3c {
+    width:435px;
+}
+.banner ._3c  .line {
+    height: 184px;
+    display: flex;
+}
+.banner  ._3c  .line .half3 {
+    width:50%
+}
+
+img {
+    width: 100%;
+}
+
